@@ -1,0 +1,23 @@
+#Rice world app
+
+Menu 1
+
+# Option 1 = add cusomter who will be assigned 1-10 (no of seats)
+# No names - It will be  - Customer walks in assigned id auto 1 - 10 no list.
+# option 2 = change cusotmer name 
+# Option 3 = Cusomter makes order - Menu displayed from menu list - 4 menus. eg. paella -> chicken -> quantity 4
+# Items ordered are added to customer dictionary customer1 {[everyting ordered]: price}
+# They should be allowe to order one item several times
+# Option 4 = Drinks Menu also displayed and added to order
+# option 5 = remove item from order eg food -> paella -> chicken -> 2
+# more efficient way or remove all items
+# Option 6 = Request Bill = Provide Cusomter name , served by staff name. Each item with its price and then the total and finally date
+# Option 7 = Remove that cusomter and update them to the database
+
+menu 2
+
+# option 1 = end of day banking
+
+menu 3 
+
+Display multiple graphics 
